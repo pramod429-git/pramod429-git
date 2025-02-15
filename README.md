@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning and working with - **ReactJS, NodeJS**
 
-- 💬 Ask me about **Java Script MERN React Developer**
+- 💬 Ask me about **Java Script MERN Stack Developer**
 
 - 📫 How to reach me **18kppramod@gmail.com**
 
