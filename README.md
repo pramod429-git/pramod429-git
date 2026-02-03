@@ -1,15 +1,15 @@
 <img src="https://camo.githubusercontent.com/16066820b7696b448b41fad45188e6fff6f0ee726523a15e79a12e14fc56245a/68747470733a2f2f646576656c6f706572676966732e6e65746c6966792e6170702f676966732f4a6176615363726970742e676966" alt="MasterHead" style="width:100%; height:250px; object-fit:cover;">
 <h1 align="center">Hi 👋, I'm Pramod Kumar K</h1>
-<h3 align="center">A passionate frontend React JS and backend Node JS developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramod429-git&label=Profile%20views&color=0e75b6&style=flat" alt="pramod429-git" /> </p>
 
-- 🔭 I’m currently working on **DevTinder**
+- 🔭 I’m currently working on **OpenCart website Automation script(using selenium)**
 
-- 🌱 I’m currently learning and working with - **ReactJS, NodeJS**
+- 🌱 I’m currently learning and working with - **Javascript, Java, selenium, Reactjs, Nodejs**
 
-- 💬 Ask me about **Java Script MERN Stack Developer**
+- 💬 Ask me about **JavaScript Java**
 
 - 📫 How to reach me **18kppramod@gmail.com**
 
